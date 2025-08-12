@@ -12,8 +12,9 @@ body {
 }
 
 .container {
-  margin-right: 59px;
-  margin-left: 100px;
+  padding-right: 59px;
+  padding-left: 100px;
+  margin: 0 auto;
   max-width: 1280px;
 }
 
@@ -225,10 +226,6 @@ ul {
   padding-top: 72px;
   padding-bottom: 78px;
   background: #222f33;
-}
-
-.innovatioin {
-  margin-left: 200px;
 }
 
 .innovation-title {
